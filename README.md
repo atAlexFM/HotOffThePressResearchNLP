@@ -13,11 +13,11 @@ A hand currated list of recent (and not so recent) Natural Language Processing p
   + Researcher(s): Sanjeev Arora, Yingyu Liang, and Tengyu Ma
   + Institution: Princeton University
   + Year: 2017
-  + Project Homepage: (http://www.offconvex.org/2016/02/14/word-embeddings-2/)
+  + Project Homepage: http://www.offconvex.org/2016/02/14/word-embeddings-2/
   
 ## Sentiment Mining<a name="Sentiment-Mining"></a>
-+ [The Emotional Arcs of Stories are Dominated by Six Basic Shapes] (https://arxiv.org/pdf/1606.07772.pdf)
++ [The Emotional Arcs of Stories are Dominated by Six Basic Shapes](https://arxiv.org/pdf/1606.07772.pdf)
   + Researcher(s): Andrew J. Reagan, Lewis Mitchell, Dilan Kiley, Christopher M. Danforth, and Peter Sheridan Dodds
   + Institution: The University of Vermont 
   + Year: 2016
-  + Project Homepage: (https://hedonometer.org/index.html)
+  + Project Homepage: https://hedonometer.org/index.html
