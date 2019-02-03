@@ -10,7 +10,7 @@ A hand currated list of recent (and not so recent) Natural Language Processing p
 # Research Papers<a name="Research"></a>
 
 ## Dialogue Systems<a name="Dialogue-Systems"></a>
-+ [Shaping the Narrative Arc: An Information-Theoretic Approach toCollaborative Dialogue](https://arxiv.org/pdf/1901.11528.pdf)
++ [Shaping the Narrative Arc: An Information-Theoretic Approach to Collaborative Dialogue](https://arxiv.org/pdf/1901.11528.pdf)
   + Researcher(s): Kory W. Mathewson, Pablo Samuel Castro, Colin Cherry, George Foster, and Marc G. Bellemare
   + Institution: N/A
   + Year: 2019
