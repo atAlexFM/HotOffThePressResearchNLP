@@ -7,6 +7,7 @@ A hand currated list of recent (and not so recent) Natural Language Processing p
   + [Sentence Embeddings](#Sentence-Embeddings)
   + [Sentiment Mining](#Sentiment-Mining)
   + [Text Summarization](#Text-Summarization)
+  + [Language Models] (#Language-Models)
 
 # Research Papers<a name="Research"></a>
 
@@ -37,3 +38,10 @@ A hand currated list of recent (and not so recent) Natural Language Processing p
   + Institution: Halida Institue of Technology
   + Year: 2018
   + Project Homepage: N/A
+  
+## Language Models<a name="Language-Models"></a>
++ [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
++ Researcher(s): Tom B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, Sandhini Agarwal, Ariel Herbert-VossGretchen Krueger, Tom Henighan, Rewon Child, Aditya Ramesh, Daniel M. Ziegler, Jeffrey Wu, Clemens Winter, Christopher Hesse, Mark Chen, Eric Sigler, Mateusz Litwin, Scott Gray, Benjamin Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford, Ilya Sutskever, Dario Amode
++ Institution: OpenAI
++ Year: 2020
++ Project Homepage: https://github.com/openai/gpt-3
