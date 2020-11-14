@@ -1,5 +1,5 @@
 # Hot Off the Press Research NLP
-A hand currated list of recent (and not so recent) Natural Language Processing papers.
+A hand curated list of recent (and not so recent) Natural Language Processing papers.
 
 # Content
 + [Research Papers](#Research)
